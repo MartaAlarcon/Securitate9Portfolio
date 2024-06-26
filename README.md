@@ -1,5 +1,9 @@
 # Project Plan: Vigilante Portfolio Website
 
+## Wordpress info
+
+**URL:** http://ec2-3-84-151-122.compute-1.amazonaws.com:27757/
+
 ## Project Overview
 **Company Name:** Vigilante  
 **Description:** Vigilante provides a wide variety of IT solutions including security cameras, alarms, smart homes (installing and selling online), and web design and development (both static and dynamic).
