@@ -2,7 +2,7 @@
 
 ## Wordpress info
 
-**URL:** http://ec2-54-158-94-198.compute-1.amazonaws.com:27757/
+**URL:** http://ec2-54-163-39-28.compute-1.amazonaws.com:27757/
 
 ## Project Overview
 **Company Name:** Vigilante  
